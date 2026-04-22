@@ -7,7 +7,7 @@ local Window = Rayfield:CreateWindow({
     LoadingSubtitle = "by FlexExility",
     ConfigurationSaving = {
       Enabled = false,
-      FolderName = SmilyFlexEcility,
+      FolderName = SmilyFlexExility,
       FileName = "Dark king mi perra"
    },
     Discord = {Enabled = false},
